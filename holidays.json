@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2020-01-01",
+        "isFlexible": false,
+        "description": "New Year's Day"
+    },
+    {
+        "date": "2020-01-15",
+        "isFlexible": true,
+        "description": "Makar Sankranti"
+    },
+    {
+        "date": "2020-01-15",
+        "isFlexible": true,
+        "description": "Pongal"
+    },
+    {
+        "date": "2020-01-26",
+        "isFlexible": false,
+        "description": "Republic Day"
+    },
+    {
+        "date": "2020-01-29",
+        "isFlexible": true,
+        "description": "Vasant Panchami"
+    }
+]
