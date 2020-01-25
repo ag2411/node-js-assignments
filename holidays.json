@@ -23,5 +23,120 @@
         "date": "2020-01-29",
         "isFlexible": true,
         "description": "Vasant Panchami"
+    },
+    {
+        "date": "2020-02-31",
+        "isFlexible": true,
+        "description": "Maha Shivratri"
+    },
+    {
+        "date": "2020-03-10",
+        "isFlexible": false,
+        "description": "Holi"
+    },
+    {
+        "date": "2020-04-02",
+        "isFlexible": true,
+        "description": "Ram Navami"
+    },
+    {
+        "date": "2020-04-06",
+        "isFlexible": true,
+        "description": "Mahavir Jayanti"
+    },
+    {
+        "date": "2020-04-10",
+        "isFlexible": true,
+        "description": "Good Friday"
+    },
+    {
+        "date": "2020-04-13",
+        "isFlexible": true,
+        "description": "Vaisakhi"
+    },
+    {
+        "date": "2020-05-24",
+        "isFlexible": true,
+        "description": "Idul Fitr"
+    },
+    {
+        "date": "2020-06-19",
+        "isFlexible": true,
+        "description": "Day Of Reason"
+    },
+    {
+        "date": "2020-07-31",
+        "isFlexible": true,
+        "description": "Bakrid"
+    },
+    {
+        "date": "2020-08-03",
+        "isFlexible": false,
+        "description": "Raksha Bandhan"
+    },
+    {
+        "date": "2020-08-11",
+        "isFlexible": true,
+        "description": "Janmashtami"
+    },
+    {
+        "date": "2020-01-29",
+        "isFlexible": true,
+        "description": "Vasant Panchami"
+    },
+    {
+        "date": "2020-08-15",
+        "isFlexible": false,
+        "description": "Independence Day"
+    },
+    {
+        "date": "2020-08-22",
+        "isFlexible": true,
+        "description": "Ganesh Chaturthi"
+    },
+    {
+        "date": "2020-08-30",
+        "isFlexible": true,
+        "description": "Onam"
+    },
+    {
+        "date": "2020-10-02",
+        "isFlexible": false,
+        "description": "Gandhi Jayanti"
+    },
+    {
+        "date": "2020-10-26",
+        "isFlexible": false,
+        "description": "Dussehra"
+    },
+    {
+        "date": "2020-11-13",
+        "isFlexible": false,
+        "description": "Diwali"
+    },
+    {
+        "date": "2020-11-14",
+        "isFlexible": false,
+        "description": "Diwali"
+    },
+    {
+        "date": "2020-11-16",
+        "isFlexible": true,
+        "description": "Bhai Dooj"
+    },
+    {
+        "date": "2020-11-20",
+        "isFlexible": true,
+        "description": "Chhath Puja"
+    },
+    {
+        "date": "2020-11-30",
+        "isFlexible": true,
+        "description": "Guru Nanak Jayanti"
+    },
+    {
+        "date": "2020-12-25",
+        "isFlexible": false,
+        "description": "Christmas Day"
     }
 ]
